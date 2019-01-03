@@ -22,13 +22,13 @@ body, html {
     
     }
 h1 {
-    font-size: 45px;
+    font-size: 60px;
     letter-spacing: 20px;
     font-weight: 100px;
 }
 #demo{
     font-weight: lighter;
-    word-spacing: 20px;
+    word-spacing: 50px;
     font-size: 30PX;
 }
 hr {
